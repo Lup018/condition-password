@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.select-1 {
+    margin: 2em;
+}
+
+.select-2 {
+    margin: 2em;
+}
+
+.select-3 {
+    margin: 2em;
+}
+
+.button {
+    margin: 2em;
+}
